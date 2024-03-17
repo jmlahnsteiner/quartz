@@ -18,11 +18,3 @@ For a summary of my work and activities, see the [[resume_overview|resume]] page
 For a list of my talks and outreach activities see [[talks|here]]. 
 I record some thoughts about the years' music releases [[music|here]]. 
 
-%% my first note i[](Scientifika%20String%20Theory.md)]]
-
-
-here's my [[CV2024-public]] 
-
-here's my choice for album of the year 2023 [[AOTY 2023]]
-
-[[impressions]]... %%
