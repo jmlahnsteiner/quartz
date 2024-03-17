@@ -1,4 +1,4 @@
-This is a resume of my academic and work experience. See also more detailed entries with my [[list of publications]], [[talks]], [[teaching activities|teaching]] and [[outreach activities]].
+This is a resume of my academic and work experience. See also more detailed entries with my [[list of publications]], [[talks]], [[teaching activities]] and [[outreach activities]].
 
 ## EXPERIENCE
 
@@ -21,16 +21,13 @@ project management | working in an international and interdisciplinary environme
 
 ## EDUCATION
 
-#### Ph.D. Theoretical Physics              Sep 2022
+#### Ph.D. Theoretical Physics, Sep 2022 
+Rijksuniversiteit Groningen
+Advisor: Eric Bergshoeff   
+Thesis: Non-Lorentzian Supergravity and Dualities
+#### M.Sc. Physics, Jul 2018
+*Universität Wien, average grade: 1.17
+#### B.Sc. Physics, Sep 2016
+*Universität Wien, average grade: 1.57
+#### BRG Schloss Traunsee, 2011
 
-Rijksuniversiteit Groningen        
-
-Advisor: Eric Bergshoeff   Thesis: Non-Lorentzian Supergravity and Dualities        
-
-#### M.Sc. Physics               Jul 2018
-
-*Universität Wien     average grade: 1.17
-
-#### B.Sc. Physics              Sep 2016
-
-*Universität Wien   average grade: 1.57
