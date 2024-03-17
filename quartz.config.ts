@@ -22,7 +22,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Press Start 2P",
+        header: "Poor Story",
+        // Press Start 2P
         body: "Atkinson Hyperlegible",
         code: "IBM Plex Mono",
       },
