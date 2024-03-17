@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Site
+title: Welcome to My Site
 ---
 
 %% This is a blank Quartz installation.
