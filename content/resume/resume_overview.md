@@ -27,10 +27,10 @@ Rijksuniversiteit Groningen        
 
 Advisor: Eric Bergshoeff   Thesis: Non-Lorentzian Supergravity and Dualities        
 
-#### M.Sc. Physics               Jul 2018**
+#### M.Sc. Physics               Jul 2018
 
 *Universität Wien     average grade: 1.17
 
-#### B.Sc. Physics              Sep 2016**
+#### B.Sc. Physics              Sep 2016
 
 *Universität Wien   average grade: 1.57
