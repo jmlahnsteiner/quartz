@@ -1,4 +1,4 @@
-This is a resume of my academic and work experience. See also more detailed entries with my [[publications]], [[talks]], and [[outreach activities]].
+This is a resume of my academic and work experience. See also more detailed entries with my [[publications]], [[talks]], [[teaching activities|teaching]] and [[outreach activities]].
 
 ## EXPERIENCE
 
