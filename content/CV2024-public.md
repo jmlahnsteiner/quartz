@@ -1,8 +1,3 @@
-## General Points
-
-- make it sound like you have all the skills to start working there tomorrow
-- align CV with the job posting
-
 ## Education
 
 - PhD, University of Groningen
@@ -126,11 +121,3 @@ Irene Garcia (BSc,
 _Modified Newtonian Dynamics_),  
 Iisakki Rotko (BSc,  
 _Fractons_)
-
-## CVS
-
-[[d-fine consultancy]]
-
-## templates
-
-![[Consultant Resume Template 2024.docx]]
