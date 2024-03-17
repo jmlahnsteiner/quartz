@@ -28,28 +28,28 @@ const config: QuartzConfig = {
         body: "Atkinson Hyperlegible",
         code: "IBM Plex Mono",
       },
-      // colors: {
-      //   lightMode: {
-      //     light: "#faf8f8",
-      //     lightgray: "#e5e5e5",
-      //     gray: "#b8b8b8",
-      //     darkgray: "#4e4e4e",
-      //     dark: "#2b2b2b",
-      //     secondary: "#284b63",
-      //     tertiary: "#84a59d",
-      //     highlight: "rgba(143, 159, 169, 0.15)",
-      //   },
       colors: {
         lightMode: {
-          light: "#d0e0e3",
+          light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",
           dark: "#2b2b2b",
           secondary: "#284b63",
           tertiary: "#84a59d",
-          highlight: "#feda70",
+          highlight: "rgba(143, 159, 169, 0.15)",
         },
+        // colors: {
+        //   lightMode: {
+        //     light: "#d0e0e3",
+        //     lightgray: "#e5e5e5",
+        //     gray: "#b8b8b8",
+        //     darkgray: "#4e4e4e",
+        //     dark: "#2b2b2b",
+        //     secondary: "#284b63",
+        //     tertiary: "#84a59d",
+        //     highlight: "#feda70",
+        //   },
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
