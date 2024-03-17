@@ -1,6 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
-// import imagetoadd from "/Users/jmlahnsteiner/Library/Mobile Documents/iCloud~md~obsidian/Documents/Main/quartz/content/assets/P2250129.jpg"
+import imagetoadd from "/Users/jmlahnsteiner/Library/Mobile Documents/iCloud~md~obsidian/Documents/Main/quartz/content/assets/P2250129.jpg"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
@@ -17,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    // <img src={imagetoadd} alt="Image" />,
+    <img src={imagetoadd} alt="Image" />,
     Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.ContentMeta(),
