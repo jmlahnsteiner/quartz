@@ -1,0 +1,1 @@
+I have engaged in outreach activities, among which: FameLab 2019 and 2020, RAYS for excellence 2023, Låna en forskare 2023. Details to follow.
