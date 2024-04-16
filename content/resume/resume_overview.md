@@ -17,7 +17,7 @@ This is a resume of my academic and work experience. See also more detailed entr
 
 project management | working in an international and interdisciplinary environment | academic writing | mathematical analysis, model building, statistics | academic presenting and dissemination | teaching and outreach | full proficiency in English and German, intermediate proficiency in French, Dutch, and Swedish | working knowledge of python, git integration, MATLAB, mathematica, FORTRAN
 
-  
+Certificates: AWS Cloud Practitioner Essentials | Kaggle Pandas, Data Visualization, and Intro to Machine Learning  
 
 ## EDUCATION
 
