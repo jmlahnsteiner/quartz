@@ -20,6 +20,8 @@
 - teaching and outreach
 - working coding knowledge in python, mathematica, MATLAB, FORTRAN
 
+Certificates: AWS Cloud Practitioner Essentials | Kaggle Pandas, Data Visualization, and Intro to Machine Learning
+
 ## Work Experience
 
 - Postdoctoral Researcher, Nordita
