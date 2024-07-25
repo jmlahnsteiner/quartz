@@ -1,0 +1,56 @@
+## pushday
+- benchpress:
+	- 5 sets of 5 
+	- ~~(max 45kg~~)
+	- Max 48kg
+- Dumbbell shoulderpress
+	- 3 sets of 8 
+	- Max 7kg
+- Trizepdips
+	- Two benches, dip down, with weight on lap
+	- 3 sets of 12
+- regular dips
+	- Three sets of 6
+- Lateral + front raises
+	- 3 sets of 10
+	- Failed 5kg
+
+## legday
+- weighted squats
+	- 4 sets of 6 (max 57 kg)
+- Deadlifts
+	- 4 sets of 6 (max 50kg)
+- Calfraises
+	- 3 set of 8-12
+	- On smith machine, with guided thingy
+- Hip thrusts
+	- 3 sets of 8-13
+	- On smith, shoulders supported on bench
+	- Max 28kg
+- leg extension
+	- 3 sets of 6
+	- Max 35
+- Leg curl
+	- 3 sets of 6
+	- Max 45
+
+## Poules day
+- Bent over barbell row
+	- 4 sets of 6-8
+	- Keep back straight
+	- Max 45kg
+- Lat pull down
+	- 4 sets of 6-8
+	- Max 70kg
+- Dumbbell shrugs
+	- 3 sets of 10
+	- Max 22.5 kg
+- Barbell curls
+	- 3 sets of 8-10
+	- Max 20 kg
+- Wrist curls
+	- 3 sets of 8-10
+	- Max 10kg
+- Face pulls
+	- 3 sets of 8-10
+	- Max 22.5 kg
