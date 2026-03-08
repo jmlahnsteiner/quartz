@@ -1,2 +1,0 @@
-
-Wind Predictor Traunsee
