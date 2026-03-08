@@ -15,5 +15,5 @@ For a list of my talks and outreach activities see [[talks|here]].
 I record some thoughts about the years' music releases [[music|here]]. 
 See [[WindPredictor|here]] for an up-to date prediction for wind quality on Traunsee.
 
-[Wind Predictor](/static/wind-predictor.html)
+See also: my little Ebensee Sailing [Wind Predictor](jmlahnsteiner.github.io/windPredictor). 
 
