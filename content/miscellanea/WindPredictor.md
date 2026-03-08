@@ -8,3 +8,5 @@ title: Weather Prediction
   height="900px" 
   style="border:none;">
 </iframe>
+
+Wind Predictor Traunsee
