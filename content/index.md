@@ -13,4 +13,5 @@ When not in front of a computer, blackboard, or piece of paper you will most lik
 For a summary of my work and activities, see the [[resume_overview|resume]] page. 
 For a list of my talks and outreach activities see [[talks|here]]. 
 I record some thoughts about the years' music releases [[music|here]]. 
+See [WindPredictor] for an up-to date prediction for wind quality on Traunsee.
 
