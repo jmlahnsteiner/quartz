@@ -1,5 +1,6 @@
 Here, I am collecting some of my musings on music and my album of the year lists. 
 
+- [[AOTY 2026|2026]]
 - [[AOTY 2025|2025]]
 - [[AOTY 2024|2024]]
 - [[AOTY 2023|2023]]
